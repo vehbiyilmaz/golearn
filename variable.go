@@ -18,7 +18,7 @@ func main() {
 	fmt.Println("c is : ", c)
 
 	//Data convertion
-	d := int(c) // dont forger convertion you lose some data
+	d := int(c) // dont forget convertig float number to integer you lose some data
 	fmt.Println("d is  value of c but INT : ", d)
 
 }
