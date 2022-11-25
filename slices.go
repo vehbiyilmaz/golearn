@@ -44,7 +44,7 @@ newSlice:= append(sliceOne,sliceTwo...) // new Slice groups 2 Slices
 
 // IMPORTANT  SLICE COPY IS A JUST POINT ORIGINAL SLICE WITH NEW NAME 
 // when you make a slice copy  does mean you point Original slice
-// every change on new created slice copy will affected to original slice  
+// every change on new created slice copy will qaffected to original slice  
 newSlice[0] = 23
 
 fmt.Println(mySlice)

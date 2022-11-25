@@ -1,5 +1,5 @@
 # golearn
 
-This ist just my  Golang programming notes
+This ist just my  Golang programming notes`!
 
-Simplemente mis apuntes de programacion Golang 
+Simplemente mis apuntes de programacion Golang !
